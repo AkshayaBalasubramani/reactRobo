@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactRobo/static/css/main.de2f7517.css",
+    "main.js": "/reactRobo/static/js/main.8c13273c.js",
+    "static/js/787.32032a02.chunk.js": "/reactRobo/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/reactRobo/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/reactRobo/index.html",
+    "main.de2f7517.css.map": "/reactRobo/static/css/main.de2f7517.css.map",
+    "main.8c13273c.js.map": "/reactRobo/static/js/main.8c13273c.js.map",
+    "787.32032a02.chunk.js.map": "/reactRobo/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de2f7517.css",
+    "static/js/main.8c13273c.js"
+  ]
+}
